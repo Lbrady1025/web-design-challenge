@@ -6,3 +6,10 @@ header {
     margin:10px;
 }
 
+.navbar-brand {
+    color: white;
+}
+
+.navbar-link a {
+    color: white;
+}
