@@ -13,3 +13,9 @@ header {
 .navbar-link a {
     color: white;
 }
+
+@media (max-width: 480px) {
+    .navbar-collapse {
+        padding:10px
+    }
+}
